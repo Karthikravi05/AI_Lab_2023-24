@@ -26,7 +26,7 @@ To write a python program to implement Breadth first Search.
 
 ### Output:
 
-
+![](image.png)
 
 ### Result:
 Thus the breadth first search order was found sucessfully.
