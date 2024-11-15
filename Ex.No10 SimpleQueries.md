@@ -1,6 +1,6 @@
 # Ex.No: 10  Logic Programming –  Simple queries from facts and rules
 ## DATE:  
-30/09/2024
+14/10/2024
 ## REGISTER NUMBER : 
 212221060117
 ### AIM: 
