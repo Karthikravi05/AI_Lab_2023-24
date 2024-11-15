@@ -1,5 +1,5 @@
 # Ex.No: 4   Implementation of Alpha Beta Pruning 
-### DATE:  14/08/2024                                                                          
+### DATE:  26/08/2024                                                                          
 ### REGISTER NUMBER : 212221060117
 ### AIM: 
 Write a Alpha beta pruning algorithm to find the optimal value of MAX Player from the given graph.
@@ -63,7 +63,9 @@ print("Optimal value:", alpha_beta_pruning(0, 0, True, values, -INF, INF))
 
 
 ### Output:
-![Screenshot_12-11-2024_15302_www programiz com](https://github.com/user-attachments/assets/908e51eb-ca8e-4ae7-8712-32011ed9b7ac)
+![Screenshot_15-11-2024_8214_www programiz com](https://github.com/user-attachments/assets/b26f5aa7-ae9d-40e6-8646-d1a7a2af46bc)
+
+
 
 
 
